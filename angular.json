@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "authentificationClient"
+    }
+  },
+  "defaultProject": "authentificationClient",
+  "cli": {
+    "analytics": "12e44983-c34d-408d-ae23-bea527261cbe"
+  }
 }
